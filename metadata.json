@@ -1,0 +1,6 @@
+{
+  "name": "Promemoria Vocale",
+  "description": "Calendario accessibile con promemoria vocali parlati, vibrazione e sincronizzazione con Google Calendar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
